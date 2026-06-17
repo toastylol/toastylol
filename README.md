@@ -1,6 +1,6 @@
 <div align=center>
 
-<h2>:o who dat? <a href=""><img src="https://cdn3.emoji.gg/emojis/3801-stellesuprise.png" width="64px" height="64px" alt="StelleSuprise"></a><br><br>
+<h2>:o who dat? <img src="https://cdn3.emoji.gg/emojis/3801-stellesuprise.png" width="64px" height="64px" alt="StelleSuprise"><br><br>
 haii! im toasty (aka stelle)!</h2>
 
 ► currently working on [ineffa!](https://github.com/toastylol/discord-gemineffa-v1) & several small projects with 🤍.<br>
@@ -33,6 +33,6 @@ haii! im toasty (aka stelle)!</h2>
 
 <h2></h2>
 <div align=center>
-<h4>"Rules are made to be broken!" <a href=""><img src="https://cdn3.emoji.gg/emojis/8720-stellesweat.png" width="64px" height="64px" alt="StelleSweat"></a></h4>
+<h4>"Rules are made to be broken!" <img src="https://cdn3.emoji.gg/emojis/8720-stellesweat.png" width="64px" height="64px" alt="StelleSweat"></h4>
 <h5>- April 2023</h5>
 </div>
