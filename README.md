@@ -5,7 +5,7 @@ haii! im toasty (aka stelle)!</h2>
 
 ► currently working on [ineffa!](https://github.com/toastylol/discord-gemineffa-v1) & several small projects with 🤍.<br>
 ► finished undergrad, soon to be a postgrad student :D<br>
-► ui/ux, frontend system and tinkering with backends and low level :p<br>
+► ui/ux, frontend systems and tinkering with backends and low level :p<br>
 
 </div>
 <h2></h2>
@@ -22,7 +22,7 @@ haii! im toasty (aka stelle)!</h2>
 <img src="https://img.shields.io/badge/-HTML-red?style=flat&logo=html5&logoColor=white" height=25> <img src="https://img.shields.io/badge/-CSS-blue?style=flat&logo=css&logoColor=white" height=25> <img src="https://img.shields.io/badge/-PHP-green?style=flat&logo=php&logoColor=white" height=25><br>
 <img src="https://img.shields.io/badge/-React-149ECA?style=flat&logo=react&logoColor=white" height=25> <img src="https://img.shields.io/badge/-Electron-green?style=flat&logo=electron&logoColor=white" height=25> <img src="https://img.shields.io/badge/-DiscordJS-blue?style=flat&logo=discorddotjs&logoColor=white" height=25><br>
 <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" height=25>
-<img src="https://img.shields.io/badge/-SQL-blue?style=flat&logo=sqlite&logoColor=white" height=25> <img src="https://img.shields.io/badge/-MySQL-blue?style=flat&logo=mysql&logoColor=white" height=25><br>
+<img src="https://img.shields.io/badge/-SQLite-blue?style=flat&logo=sqlite&logoColor=white" height=25> <img src="https://img.shields.io/badge/-MySQL-blue?style=flat&logo=mysql&logoColor=white" height=25><br>
 
 ---
 ### was interested, probably know a bit:
