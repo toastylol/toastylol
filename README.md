@@ -6,6 +6,9 @@ haii! im toasty (aka stelle)!</h2>
 ► currently working on [ineffa!](https://github.com/toastylol/discord-gemineffa-v1) & several small projects with 🤍.<br>
 ► finished undergrad, soon to be a postgrad student :D<br>
 ► ui/ux, frontend systems and tinkering with backends and low level :p<br>
+<h3>► My Commit History<h3>
+<img src="https://raw.githubusercontent.com/toastylol/toastylol/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only">
+
 
 </div>
 <h2></h2>
@@ -34,5 +37,6 @@ haii! im toasty (aka stelle)!</h2>
 <h2></h2>
 <div align=center>
 <h4>"Rules are made to be broken!" <img src="https://cdn3.emoji.gg/emojis/8720-stellesweat.png" width="64px" height="64px" alt="StelleSweat"></h4>
-<h5>- April 2023</h5>
+<h5>- April 2023</h5><br>
 </div>
+
