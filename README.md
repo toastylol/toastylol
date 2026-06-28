@@ -6,7 +6,7 @@ haii! im toasty (aka stelle)!</h2>
 ► currently working on [ineffa!](https://github.com/toastylol/discord-gemineffa-v1) & several small projects with 🤍.<br>
 ► finished undergrad, soon to be a postgrad student :D<br>
 ► ui/ux, frontend systems and tinkering with backends and low level :p<br>
-<h3>► My Commit History<h3>
+<h3>► My Contribution History<h3>
 <img src="https://raw.githubusercontent.com/toastylol/toastylol/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only">
 
 
