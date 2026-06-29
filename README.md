@@ -8,10 +8,12 @@ haii! im toasty (aka stelle)!</h2>
 ► ui/ux, frontend systems and tinkering with backends and low level :p<br>
 <h3>► My Contribution History<h3>
 <img src="https://raw.githubusercontent.com/toastylol/toastylol/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only">
-
+<a href="https://discord.com/users/493822227947454465"><img src="https://lanyard.cnrad.dev/api/493822227947454465?theme=dark&idleMessage=Rules%20are%20made%20to%20be%20broken!&borderRadius=20px&hideTimestamp=true&showDisplayName=true" />&nbsp;&nbsp;&nbsp;&nbsp;</a><img width="410" height="210" alt="trailblazer_stelle_honkai_drawn_by_daji" src="https://github.com/user-attachments/assets/c6204c04-4fb1-4e8b-a474-618acf5644d6" />
 
 </div>
-<h2></h2>
+
+---
+
 <div align=center>
 
 ### familiar with:
@@ -20,21 +22,24 @@ haii! im toasty (aka stelle)!</h2>
 <img src="https://img.shields.io/badge/-Python-yellow?style=flat&logo=python&logoColor=blue" height=25><br>
 <img src="https://img.shields.io/badge/-bash-green?style=flat&logo=gnubash&logoColor=white" height=25> <img src="https://img.shields.io/badge/-git-F05032?style=flat&logo=git&logoColor=white" height=25>
 
----
+<h2></h2>
+
 ### can work with, if needed:
 <img src="https://img.shields.io/badge/-HTML-red?style=flat&logo=html5&logoColor=white" height=25> <img src="https://img.shields.io/badge/-CSS-blue?style=flat&logo=css&logoColor=white" height=25> <img src="https://img.shields.io/badge/-PHP-green?style=flat&logo=php&logoColor=white" height=25><br>
 <img src="https://img.shields.io/badge/-React-149ECA?style=flat&logo=react&logoColor=white" height=25> <img src="https://img.shields.io/badge/-Electron-green?style=flat&logo=electron&logoColor=white" height=25> <img src="https://img.shields.io/badge/-DiscordJS-blue?style=flat&logo=discorddotjs&logoColor=white" height=25><br>
 <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" height=25>
 <img src="https://img.shields.io/badge/-SQLite-blue?style=flat&logo=sqlite&logoColor=white" height=25> <img src="https://img.shields.io/badge/-MySQL-blue?style=flat&logo=mysql&logoColor=white" height=25><br>
 
----
+<h2></h2>
+
 ### was interested, probably know a bit:
 <img src="https://img.shields.io/badge/-GO-blue?style=flat&logo=go&logoColor=white" height=25> <img src="https://img.shields.io/badge/-Rust-red?style=flat&logo=rust&logoColor=white" height=25><br>
 <img src="https://img.shields.io/badge/-Unreal_Engine-red?style=flat&logo=unrealengine&logoColor=white" height=25> <img src="https://img.shields.io/badge/-Unity-blue?style=flat&logo=unity&logoColor=white" height=25><br>
 <img src="https://img.shields.io/badge/-Swift-blue?style=flat&logo=swift&logoColor=white" height=25>
 </div>
 
-<h2></h2>
+---
+
 <div align=center>
 <h4>"Rules are made to be broken!" <img src="https://cdn3.emoji.gg/emojis/8720-stellesweat.png" width="64px" height="64px" alt="StelleSweat"></h4>
 <h5>- April 2023</h5><br>
